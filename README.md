@@ -1,5 +1,5 @@
 # Blog Book Maker
 
-Czemu to ma służyć?
-Program, który z bloga zrobi książke w pdf-ie.
+O co tu chodzi?
+Zrobisz sobie książkę z ulubionego bloga.
 
